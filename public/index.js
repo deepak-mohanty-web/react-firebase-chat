@@ -1,0 +1,23 @@
+import arrowDown from '../public/arrowDown.png'
+import arrowUp from '../public/arrowUp.png'
+import avatar from '../public/avatar.png'
+import camera from '../public/camera.png'
+import download from '../public/download.png'
+import edit from '../public/edit.png'
+import emoji from '../public/emoji.png'
+import img from '../public/img.png'
+import info from '../public/info.png'
+import mic from '../public/mic.png'
+import minus from '../public/minus.png'
+import more from '../public/more.png'
+import phone from '../public/phone.png'
+import plus from '../public/plus.png'
+import search from '../public/search.png'
+import theme from '../public/theme.png'
+import video from '../public/video.png'
+import bg from '../public/bg.jpg'
+import bg5 from '../public/bg5.jpg'
+import bg3 from '../public/bg3.jpg'
+
+
+export { arrowDown, arrowUp, avatar, camera, download, edit, emoji, img, info, mic, minus, more, phone, plus, search, theme, video,bg,bg5,bg3 };
